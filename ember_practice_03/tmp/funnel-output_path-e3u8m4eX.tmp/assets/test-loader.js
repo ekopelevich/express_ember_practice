@@ -1,0 +1,1 @@
+/Users/elanakopelevich/workspace/practice/ember_practice/ember_practice_03/tmp/funnel-input_base_path-SBH3NFhI.tmp/0/bower_components/ember-cli-test-loader/test-loader.js

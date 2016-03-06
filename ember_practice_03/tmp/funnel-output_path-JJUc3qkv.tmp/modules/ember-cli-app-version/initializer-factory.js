@@ -1,0 +1,1 @@
+/Users/elanakopelevich/workspace/practice/ember_practice/ember_practice_03/tmp/funnel-input_base_path-Ul3PGbHm.tmp/0/initializer-factory.js

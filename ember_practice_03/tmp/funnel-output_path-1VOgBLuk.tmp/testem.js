@@ -1,0 +1,1 @@
+/Users/elanakopelevich/workspace/practice/ember_practice/ember_practice_03/tmp/funnel-input_base_path-zybTF2QX.tmp/0//testem.js
